@@ -15,7 +15,7 @@ Running the Program
 
 ## Notes
 Make sure all images in the dataset are of the same dimensions (e.g., 100x100 pixels). The script automatically resizes images if needed.
-For better accuracy, ensure that the images used for training are of high quality and clearly depict the individual's face.
+For better accuracy, ensure that the images used for training are of high quality and clearly depict the individual's face. You can run this project on any IDE that supports Python, such as PyCharm, VS Code, or Jupyter Notebook.
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
